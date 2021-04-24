@@ -12,6 +12,7 @@ public class Main {
 		for (int sayi : sayilar) {
 			if(sayi==aranacak) {
 				varMi=true;
+				break;
 			}
 		}
 		if (varMi==true) {
