@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		Course course1 = new Course(1, "C# + Angular", "Engin Demiroð", "//image.jpg", 93);
+		Course course1 = new Course();
 		Course course2 = new Course(2, "Java + React", "Engin Demiroð", "//image.jpg", 16);
 		Course course3 = new Course(3, "Temel Kurs", "Engin Demiroð", "//image.jpg", 100);
 
