@@ -1,6 +1,10 @@
 package homework2_1;
 
+
 public class CourseManager {
+	public void addToCart(Course course) {
+		System.out.println("Katýlým saðlandý :" + course.name);
+	}
 	public void getCourse (Course course) {
 		System.out.println("Kurs ismi : " + course.name);
 		System.out.println("Eðitmen : " + course.mentor);

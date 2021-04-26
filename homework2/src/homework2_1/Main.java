@@ -23,10 +23,13 @@ public class Main {
 		CourseManager courseManager = new CourseManager();
 		
 		System.out.println("------------------");
+		courseManager.addToCart(course1);
 		courseManager.getCourse(course1);
 		System.out.println("------------------");
+		courseManager.addToCart(course2);
 		courseManager.getCourse(course2);
 		System.out.println("------------------");
+		courseManager.addToCart(course3);
 		courseManager.getCourse(course3);
 
 	}
