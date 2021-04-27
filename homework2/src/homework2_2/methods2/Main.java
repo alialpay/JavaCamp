@@ -1,4 +1,4 @@
-package methods2;
+package homework2_2.methods2;
 
 public class Main {
 
