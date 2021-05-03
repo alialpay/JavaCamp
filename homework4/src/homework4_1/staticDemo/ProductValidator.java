@@ -24,4 +24,10 @@ public class ProductValidator {
 		
 	}
 	
+	public static class BaskaBirClass{
+		public static void Sil() {
+			
+		}
+	}
+	
 }
